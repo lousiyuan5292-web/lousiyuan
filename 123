@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <p>This is <span style="color:red;">red</span></p >
+
+    <p>id="top"Target paragraph</p >
+   <p>Paragraph1</p >
+   <p>Paragraph2</p >
+   <p>Paragraph1</p >
+   <p>Paragraph2</p >
+   <p>Paragraph1</p >
+   <p>Paragraph2</p >
+   <p>Paragraph1</p >
+   <p>Paragraph2</p >
+
+    <p>请输入文本内容 <input type="radio"></p > 
+   <p>请输入文本内容 <input type="checkbox"></p > 
+   <p>请输入文本内容 <input type="radio"><input type="radio"></p > 
+   <p> 请输入文本内容<input type="range"></p >
+   <p>请输入密码<input type="password"></p >
+   <p>请输入颜色<input type=color></p >
+   <p>请输入日期<input type=date></p >
+   <p>请输入时间<input type=time></p >
+
+   <a href=" ">点击</a >
+</body>
+</html>
